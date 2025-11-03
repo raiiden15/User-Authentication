@@ -1,6 +1,4 @@
 # User-Authentication  
-> A complete backend system guided by Hitesh Choudhary.  
-> [GitHub Repository](https://github.com/raiiden15/User-Authentication.git)
 
 ---
 
